@@ -1,0 +1,7 @@
+Hello this text were going to explain what is git on what i understand
+
+Git is very helpful for tech organization
+
+to keep track on version or updates like tracking the date and author
+
+you upload an new text file it's gonna be color red means it has not modified
